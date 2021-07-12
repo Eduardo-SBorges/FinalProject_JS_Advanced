@@ -5,7 +5,7 @@ Access the project's site here: https://eduardo-sborges.github.io/FinalProject_J
 
 ----------> Notas do Desenvolvedor (PT-BR) <----------
 
-Neste Projeto, foram aplicados todos os conhecimentos aprendidos em JavaScript puro 
+Neste Projeto, foram aplicados todos os conhecimentos aprendidos com JavaScript puro 
 (sem plugins, bibliotecas ou templates) através do Curso Completo de JavaScript
 da escola Origamid (https://www.origamid.com/).
 
@@ -23,7 +23,7 @@ da escola Origamid (https://www.origamid.com/).
 
 ---------------> Developers Notes (EN) <---------------
 
-In this Project, all the knowledge learned in pure JavaScript was applied
+In this Project, all the knowledge learned with pure JavaScript was applied
 (no plugins, libraries or templates) through the Complete JavaScript Course
 from the Origamid's school (https://www.origamid.com/).
 
