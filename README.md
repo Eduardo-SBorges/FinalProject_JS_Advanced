@@ -21,7 +21,7 @@ Entre os conhecimentos aplicados neste projeto estão:
 8. Automação Front-End (Cli, NPM, ESLint, WebPack, Babel e GIT).
 9. CSS e HTML com arquitetura responsiva (adptação para smartphones e tablets).
 
--------------> Developers Notes (EN) <-------------
+---------------> Developers Notes (EN) <---------------
 
 In this Project, all the knowledge learned in pure JavaScript was applied
 (no plugins, libraries or templates) through the Complete JavaScript Course
