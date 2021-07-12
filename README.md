@@ -21,7 +21,7 @@ JavaScript da escola Origamid (https://www.origamid.com/).
     8. Automação Front-End (Cli, NPM, ESLint, WebPack, Babel e GIT).
     9. CSS e HTML com arquitetura responsiva (adptação para smartphones e tablets).
 
-----> Developers Notes (EN) 
+----> Developer Notes (EN) 
 
 In this Project, all the knowledge learned with pure JavaScript was applied
 (without plugins, libraries or templates) through the JavaScript's Complete
